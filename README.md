@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abhayg13
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on Machine learning projects
-- 📫 abhaygupta1307@gmail.com
+Hi, I’m @Abhayg13
+I'm a motivated B.E. student with a strong interest in machine learning, data structures, and web
+development. Proficient in Python, skilled in ML algorithms, and adept at creating user-friendly
+interfaces. Strong teamwork and communication skills. Eager to bring innovation to your team.
+
 
 <!---
 Abhayg13/Abhayg13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
